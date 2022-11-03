@@ -1,0 +1,82 @@
+body{margin: 0px 0px;
+	font-family: Roboto, Arial, sans-serif;
+	font-size:26px;
+}
+.a1{
+	font-size: 28px;
+	margin: 18px 28px;
+}
+.a1:hover{
+	background-color: lightgrey;
+	border-radius: 100%;
+}
+.a2{
+	font-size: 38px;
+	color: red;
+}
+input{
+	margin: 10px 15px;
+	border:2px solid silver;
+	border-top-left-radius: 24px;
+	border-bottom-left-radius: 24px;
+	background-color: whitesmoke;
+	width: 455px;
+    height: 38px;
+}
+.aa3{
+	border-color: lightgrey;
+	border-top-right-radius: 24px;
+	border-bottom-right-radius: 24px;
+}
+.a3{
+	font-size: 20px;
+	}
+.a4{
+	font-size: 22px;
+	border-color: lightgrey;
+	border-radius: 50px;
+}
+.a5{
+	font-size: 26px;
+	color: indianred;
+}
+.a6{
+	font-size: 22px;}
+.c1{
+	margin: 0px 26px;
+	font-size: 36px;
+	width: 26px;
+}
+.c1:hover{
+	background-color: lightgrey;
+}
+.b1{
+	margin: -120px 80px;
+	border-radius: 30px;
+	font-size: 12px;
+}
+.b1 a{
+	border:0px solid whitesmoke ;
+	border-width: 20px;
+	border-radius: 18px;
+}
+.b1 a:hover{
+	border-color: black;
+	background-color: black;
+	color: white;
+}
+.b5{
+	background-color: whitesmoke;
+	width: 32px;
+	height: 30px;
+	text-align: center;
+}
+.f1{
+	margin: -100px 80px;
+	}
+iframe{
+	border-radius: 30px;
+}
+.f2{
+	margin: 160px 80px;
+}
